@@ -1450,11 +1450,11 @@ a,a:active,a:visited {
   cursor: pointer;
   background-color: #000;
   color: #fff;
-  border: 1px solid #fff
+  border: 1px solid #000000
 }
 
 .ampstart-btn:visited {
-  color: #fff
+  color: #000000;
 }
 
 .ampstart-btn-secondary {
@@ -1579,7 +1579,7 @@ a,a:active,a:visited {
 }
 
 .ampstart-image-fullpage-hero {
-  color: #fff;
+  color: #000000;
 }
 
 .ampstart-fullpage-hero-heading-text,.ampstart-image-fullpage-hero .ampstart-image-credit {
