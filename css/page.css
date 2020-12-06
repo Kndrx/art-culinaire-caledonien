@@ -1449,7 +1449,7 @@ a,a:active,a:visited {
   vertical-align: middle;
   cursor: pointer;
   background-color: #000;
-  color: #fff;
+  color: #000000;
   border: 1px solid #000000
 }
 
@@ -1464,7 +1464,7 @@ a,a:active,a:visited {
 }
 
 .ampstart-btn-secondary:visited {
-  color: #fff
+  color: #fff;
 }
 
 .ampstart-btn:active .ampstart-btn:focus {
