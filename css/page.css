@@ -2082,7 +2082,14 @@ amp-carousel .ampstart-image-with-caption {
   content: "";
   display: block;
   height: 2rem;
-  width: 8.33%
+  width: 8.33%;
+}
+.theme2-dividers:after {
+  border-bottom: 1px solid #fff;
+  content: "";
+  display: block;
+  height: 0.5rem;
+  width: 8.33%;
 }
 
 .theme2-anchored {
