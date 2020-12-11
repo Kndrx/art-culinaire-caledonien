@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: https://cuisine-nc.com/sitemap.xml
+Allow: /* 
